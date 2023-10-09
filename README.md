@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning penetration testing & Python programing
-- 👯 I’m interested in learning all about tech security
+- 🌱 I’m currently learning Penetration Testing & Hacking
+- 👯 I’m interested in  Studing advanced persistent threat (APT)🚩 strategies and penetration testing methodologies, enhancing skills in  vulnerability assessment and security measures.
 - ⚡ Fun fact: ...Ethical standards
 
 
