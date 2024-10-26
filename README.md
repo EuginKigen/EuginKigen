@@ -1,4 +1,4 @@
-![hak (1)](https://github.com/user-attachments/assets/a32ebf7c-4177-474d-a30d-76ceac717d1e)### Hi there 👋  I’m @Eugene
+### Hi there 👋  I’m @Eugene
 
 
 - 🔭 I’m currently working on ...
