@@ -1,4 +1,4 @@
-### Hi there 👋  I’m @EuginKigen
+### Hi there 👋  I’m @Eugene
 
 
 - 🔭 I’m currently working on ...
@@ -6,6 +6,7 @@
 - 👯 I’m interested in .....
 - ⚡ Fun fact: ...Ethical standards
 
+![Uploading hak (1).gif…]()
 
 
 
