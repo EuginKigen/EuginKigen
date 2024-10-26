@@ -1,4 +1,4 @@
-### Hi there 👋  I’m @Eugene
+![hak (1)](https://github.com/user-attachments/assets/a32ebf7c-4177-474d-a30d-76ceac717d1e)### Hi there 👋  I’m @Eugene
 
 
 - 🔭 I’m currently working on ...
@@ -6,7 +6,7 @@
 - 👯 I’m interested in .....
 - ⚡ Fun fact: ...Ethical standards
 
-![Uploading hak (1).gif…]()
+![hak (1)](https://github.com/user-attachments/assets/e447be1d-52c8-47cd-b0d0-ed33d9c47409)
 
 
 
