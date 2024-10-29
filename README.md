@@ -6,8 +6,6 @@
 - 👯 I’m interested in .....
 - ⚡ Fun fact: ...Ethical standards
 
-![hak (1)](https://github.com/user-attachments/assets/e447be1d-52c8-47cd-b0d0-ed33d9c47409)
-
 
 
 # 💻 Tech Stack:
