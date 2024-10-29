@@ -1,5 +1,5 @@
-### Hi there 👋  I’m @Eugene
-
+### Hi there 👋  I’m Eugene
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+cyber+security+researcher)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning and advancing my skills.
